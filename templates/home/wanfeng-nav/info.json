@@ -1,0 +1,19 @@
+{
+    "name":"挽风导航",
+    "description":"主题由群友(凌云)提供!如有侵权请联系删除",
+    "homepage":"https://gitee.com/tznb/OneNav",
+    "version":"2.0.4",
+    "update":"2023/08/01",
+    "author":"落幕",
+    "screenshot":"https://img.lm21.top/wanfeng-nav.jpg",
+    "config": {
+        "logo":"./templates/home/wanfeng-nav/images/1689218236746554.png",
+        "title":"免费收录站长们的网站",
+        "navbar-link":"<li><a href=\"https://github.com/tznb1/TwoNav\">关于本站</a></li>",
+        "friend-link":"<li><a href=\"https://www.a754.com\" target=\"_blank\">挽风博客</a></li> <li><a href=\"https://github.com/tznb1/TwoNav\" title=\"项目地址\" target=\"_blank\">TwoNav</a></li>"
+    },
+    "support":{
+        "subitem":0,
+        "category_svg":0
+    }
+}

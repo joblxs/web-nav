@@ -1,0 +1,14 @@
+{
+    "name": "tushan2",
+    "description": "tushan2简洁版本，适合少量书签的用户。",
+    "homepage": "https://gitee.com/tznb/TwoNav",
+    "version": "2.0.0",
+    "original_version":"1.0.0",
+    "update": "2023\/07\/08",
+    "author": "tushan<admin@mcecy.com>",
+    "screenshot": "https://img.lm21.top/tushan2.jpg",
+    "config": {
+        "background": "./templates/home/tushan2/static/bg.webp",
+        "searchEngine": "on"
+    }
+}
